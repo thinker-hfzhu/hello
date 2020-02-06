@@ -7,7 +7,7 @@
     road-type: 2,
     road-sub-type: 2,
     speed-category: 3,
-    speed-limit: 55,
+    speed-limit: 57,
     speed-limit-source: 1,
     speed-limit-unit-is-mph: true,
     left-side-driving: false,
