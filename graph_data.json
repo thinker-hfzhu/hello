@@ -3,11 +3,11 @@
   {
     identifier: -984521961,
     length-in-meters: 93.51,
-    functional-class: 4,
+    functional-class: 5,
     road-type: 3,
     road-sub-type: 2,
     speed-category: 3,
-    speed-limit: 55,
+    speed-limit: 57,
     speed-limit-source: 1,
     speed-limit-unit-is-mph: true,
     left-side-driving: false,
